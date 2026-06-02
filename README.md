@@ -1,9 +1,7 @@
 # Contextual Navigation Signal (CNS) — Explainer
 
 **Status:** Early Proposal  
-**Author:** [Your Name]  
 **Date:** 2026  
-**Repository:** [pending]
 
 ---
 
