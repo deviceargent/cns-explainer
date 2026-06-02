@@ -1,8 +1,9 @@
 # Contextual Navigation Signal (CNS) — Explainer
 
+
 **Status:** Early Proposal  
 **Date:** 2026  
-
+**Author:** Miguel Okstein 
 ---
 
 ## Abstract
